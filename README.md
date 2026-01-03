@@ -2,7 +2,7 @@
 <h3 align="center">Payroll Tech | Automation Tester | HRTech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sandeshsamgir05&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
