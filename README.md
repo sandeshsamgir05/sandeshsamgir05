@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Sandesh Samgir</h1>
+<h3 align="center">Payroll Tech | Automation Tester | HRTech Enthusiast</h3>
 
-<!--
-**sandeshsamgir05/sandeshsamgir05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🧾 Payroll systems expert (AU & NZ)
+- 🧪 Manual & Automation Tester (Cucumber)
+- 🧩 Lifion low-code developer
+- 💻 Affiliate marketer & content creator
+
+---
+
+## 🛠 Skills & Tools
+<p>
+  <img src="https://img.shields.io/badge/Payroll-AU%20%26%20NZ-orange"/>
+  <img src="https://img.shields.io/badge/Testing-Manual%20%26%20Automation-blue"/>
+  <img src="https://img.shields.io/badge/Cucumber-Automation-green"/>
+  <img src="https://img.shields.io/badge/Jira-Tracking-blue"/>
+  <img src="https://img.shields.io/badge/Confluence-Docs-lightgrey"/>
+  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20Route53-yellow"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+Lifion • API Design • Swagger • Production Support Excellence
+
+---
+
+## 📫 Connect With Me
+sandesh.samgir05@gmail.com
+
+---
+
+⚡ **Fun Fact:**  
+I manage enterprise payroll systems by day and side hustles by night 😄
